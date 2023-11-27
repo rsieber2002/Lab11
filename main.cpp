@@ -26,6 +26,8 @@ using namespace std;
 
     for (const string& word : msg)
     {
+        cout << word << "This is an edit to this line";
+
         cout << word << " "; //This is a comment to this line
     }
     cout << endl;
