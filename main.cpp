@@ -26,7 +26,7 @@ using namespace std;
 
     for (const string& word : msg)
     {
-        cout << word << " ";
+        cout << word << " "; //This is a comment to this line
     }
     cout << endl;
 
